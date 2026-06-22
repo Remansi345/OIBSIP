@@ -313,7 +313,7 @@ The internship helped strengthen practical knowledge of Python, machine learning
 
 **Remansi**  
 
-GitHub: [Zvaishali28]()
+GitHub: [Remansi345](https://github.com/Remansi345)
 
 ---
 
