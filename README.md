@@ -243,7 +243,7 @@ jupyter notebook
 ## 📁 Folder Structure
 
 ```text
--OIBSIP/
+OIBSIP/
 │
 ├── DS task 1/
 │   ├── IRIS_FLOWER_CLASSIFICATION.ipynb
