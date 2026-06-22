@@ -226,7 +226,7 @@ git clone https://github.com/Zvaishali28/-OIBSIP.git
 2. Open the project folder:
 
 ```bash
-cd -OIBSIP
+cd OIBSIP
 ```
 
 3. Start Jupyter Notebook:
