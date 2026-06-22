@@ -19,7 +19,7 @@
 
 | Field | Details |
 | --- | --- |
-| **Name** | Vaishali Zade |
+| **Name** | Remansi Sindpure |
 | **Internship** | Oasis Infobyte Internship |
 | **Domain** | Data Science |
 | **Programming Language** | Python |
